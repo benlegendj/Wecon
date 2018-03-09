@@ -1,5 +1,8 @@
 # WeConnect
 
+[![Build Status](https://travis-ci.org/benlegendj/Wecon.svg?branch=master)](https://travis-ci.org/benlegendj/Wecon)
+[![Coverage Status](https://coveralls.io/repos/github/benlegendj/Wecon/badge.svg?branch=master)](https://coveralls.io/github/benlegendj/Wecon?branch=master)
+
 WeConnect provides a platform that brings businesses and individuals together. This platform creates awareness for businesses and gives the users the ability to write reviews about the businesses they have interacted with.
 
 # Features
