@@ -7,7 +7,7 @@ install:
 env:
   - DB=postgresql
 script:
-  - nosetests --with-coverage --cover-package=src
+  - nosetests --with-coverage --cover-package=app
   - coveralls
 after_success:
  - coveralls
